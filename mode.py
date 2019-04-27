@@ -49,3 +49,4 @@ def evaluate_func(x):
 
 if __name__=='__main__':
     de()
+    print(1)
